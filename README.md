@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Your title -->
 
-## I'm a PhD student in the Helmholtz [MUDS](https://www.github.com/mu-ds) Data Science graduate program @ the Max-Planck Institute for Plasmaphysics in Munich 🇩🇪
+## I'm wrapping up my PhD in the Helmholtz [MUDS](https://www.github.com/mu-ds) Data Science graduate program @ the Max-Planck Institute for Plasmaphysics in Munich 🇩🇪
 
 ### The code here spans across current research, previous work, and across side projects - mostly focused on numerical simulations, machine learning, bots, and automation.
 
