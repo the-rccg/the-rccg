@@ -11,7 +11,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Your title -->
 
-## I'm wrapping up my PhD in the Helmholtz [MUDS](https://www.github.com/mu-ds) Data Science graduate program @ the Max-Planck Institute for Plasmaphysics in Munich 🇩🇪
+## I'm a researcher at the University of Oxford department of Theoretical Physics.  
+My previous stops included my CompSci PhD thesis on AI accelerated turbulence simulations for fusion models @ the [Max-Planck Institute for Plasmaphysics](https://www.ipp.mpg.de/) in via the [Helmholtz MUDS](https://www.github.com/mu-ds) graduate program (part of [HIDA](https://www.helmholtz-hida.de/en/)). 
+Before that I studied star formation in Andromeda/M31 @ the machine-learning research group at the [Institute for Theoretical Astrophysics](https://www.ita.uni-heidelberg.de/research/klessen/science/starformation.shtml) at the [University of Heidelberg](https://www.uni-heidelberg.de/en).
+Even longer ago, I did my undergraduate degree at the [University of Chicago](https://www.uchicago.edu/) in Physics, with a stint at a Chicago prop-shop inbetween.
 
 ### The code here spans across current research, previous work, and across side projects - mostly focused on numerical simulations, machine learning, bots, and automation.
 
