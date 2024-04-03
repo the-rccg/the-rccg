@@ -16,7 +16,7 @@ My previous stops included my CompSci PhD thesis on AI accelerated turbulence si
 Before that I studied star formation in Andromeda/M31 @ the machine-learning research group at the [Institute for Theoretical Astrophysics](https://www.ita.uni-heidelberg.de/research/klessen/science/starformation.shtml) at the [University of Heidelberg](https://www.uni-heidelberg.de/en).
 Even longer ago, I did my undergraduate degree at the [University of Chicago](https://www.uchicago.edu/) in Physics, with a stint at a Chicago prop-shop inbetween.
 
-### The code here spans across current research, previous work, and across side projects - mostly focused on numerical simulations, machine learning, bots, and automation.
+### The code here spans across current research, previous work, and side projects - mostly focused on numerical simulations, machine learning, bots, and automation.
 
 
 <!-- Talking about you -->
@@ -24,8 +24,7 @@ Even longer ago, I did my undergraduate degree at the [University of Chicago](ht
 
 Currently work on physics-based machine learning, after completing my MSc in astrophyics, and leaving the Chicago prop-trading industry for graduate school.
 
-- 👨‍💻 I'm currently working on numerical simulations for my PhD
-- 🌱 I'm currently learning plasma physics for tokamak reactors
+- 👨‍💻 I'm currently working on the interplay of AI and Fusion theory
 - 👨‍🏫 I'm teaching classes on software development in Python for researchers
 - 👯 I'm looking to collaborate on plasma physics simulation projects
 - 💼 I'm open to quantitative side projects in finance, health, or other fields
